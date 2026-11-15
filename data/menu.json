@@ -1,0 +1,1313 @@
+{
+  "restaurant_name": "Fast Food Express",
+  "currency": "INR",
+  "items": [
+    {
+      "sku": "BRG-01",
+      "name": "Classic Veg Burger",
+      "aliases": [
+        "veg burger",
+        "classic vegetable burger"
+      ],
+      "category": "burgers",
+      "prices": {
+        "single": 99.0,
+        "double": 149.0
+      },
+      "default_variant": "single",
+      "allowed_modifiers": [
+        "extra cheese",
+        "no onions",
+        "no lettuce",
+        "extra patty",
+        "spicy mayo"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy",
+        "soy",
+        "sesame"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "BRG-02",
+      "name": "Aloo Tikki Burger",
+      "aliases": [
+        "aloo tikki",
+        "potato tikki burger",
+        "masala burger"
+      ],
+      "category": "burgers",
+      "prices": {
+        "single": 89.0,
+        "double": 129.0
+      },
+      "default_variant": "single",
+      "allowed_modifiers": [
+        "extra cheese",
+        "no onions",
+        "extra tikki",
+        "green chutney",
+        "mint mayo"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy",
+        "soy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "BRG-03",
+      "name": "Paneer Tikka Burger",
+      "aliases": [
+        "paneer burger",
+        "tikka paneer burger"
+      ],
+      "category": "burgers",
+      "prices": {
+        "single": 149.0,
+        "double": 199.0
+      },
+      "default_variant": "single",
+      "allowed_modifiers": [
+        "extra cheese",
+        "no onions",
+        "extra paneer",
+        "mint mayo",
+        "jalapenos"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy",
+        "soy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "BRG-04",
+      "name": "Masala Corn Cheese Burger",
+      "aliases": [
+        "corn cheese burger",
+        "sweet corn burger"
+      ],
+      "category": "burgers",
+      "prices": {
+        "single": 129.0,
+        "double": 179.0
+      },
+      "default_variant": "single",
+      "allowed_modifiers": [
+        "extra cheese",
+        "no onions",
+        "extra corn",
+        "jalapenos",
+        "spicy mayo"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy",
+        "soy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "BRG-05",
+      "name": "Peri Peri Chicken Burger",
+      "aliases": [
+        "peri peri burger",
+        "spicy chicken burger"
+      ],
+      "category": "burgers",
+      "prices": {
+        "single": 169.0,
+        "double": 229.0
+      },
+      "default_variant": "single",
+      "allowed_modifiers": [
+        "extra cheese",
+        "no onions",
+        "extra chicken",
+        "jalapenos",
+        "spicy mayo"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy",
+        "egg",
+        "soy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "BRG-06",
+      "name": "Crispy Chicken Burger",
+      "aliases": [
+        "crispy chicken",
+        "fried chicken burger"
+      ],
+      "category": "burgers",
+      "prices": {
+        "single": 159.0,
+        "double": 219.0
+      },
+      "default_variant": "single",
+      "allowed_modifiers": [
+        "extra cheese",
+        "no onions",
+        "extra chicken",
+        "lettuce",
+        "mayonnaise"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy",
+        "egg",
+        "soy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "BRG-07",
+      "name": "Tandoori Chicken Burger",
+      "aliases": [
+        "tandoori burger",
+        "tandoori chicken sandwich"
+      ],
+      "category": "burgers",
+      "prices": {
+        "single": 179.0,
+        "double": 239.0
+      },
+      "default_variant": "single",
+      "allowed_modifiers": [
+        "extra cheese",
+        "no onions",
+        "extra chicken",
+        "mint mayo",
+        "jalapenos"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy",
+        "egg",
+        "soy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "BRG-08",
+      "name": "Double Cheese Chicken Burger",
+      "aliases": [
+        "double cheese burger",
+        "cheesy chicken burger"
+      ],
+      "category": "burgers",
+      "prices": {
+        "single": 199.0,
+        "double": 269.0
+      },
+      "default_variant": "single",
+      "allowed_modifiers": [
+        "extra cheese",
+        "no onions",
+        "extra chicken",
+        "jalapenos",
+        "spicy mayo"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy",
+        "egg",
+        "soy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "WRP-01",
+      "name": "Paneer Kathi Roll",
+      "aliases": [
+        "paneer roll",
+        "paneer wrap",
+        "kathi paneer"
+      ],
+      "category": "wraps_and_rolls",
+      "prices": {
+        "regular": 139.0,
+        "large": 189.0
+      },
+      "default_variant": "regular",
+      "allowed_modifiers": [
+        "extra paneer",
+        "no onions",
+        "mint chutney",
+        "spicy mayo",
+        "extra cheese"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "WRP-02",
+      "name": "Chicken Tikka Wrap",
+      "aliases": [
+        "chicken wrap",
+        "chicken tikka roll"
+      ],
+      "category": "wraps_and_rolls",
+      "prices": {
+        "regular": 159.0,
+        "large": 209.0
+      },
+      "default_variant": "regular",
+      "allowed_modifiers": [
+        "extra chicken",
+        "no onions",
+        "mint chutney",
+        "spicy mayo",
+        "extra cheese"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "WRP-03",
+      "name": "Egg Masala Roll",
+      "aliases": [
+        "egg roll",
+        "anda roll",
+        "egg kathi roll"
+      ],
+      "category": "wraps_and_rolls",
+      "prices": {
+        "regular": 109.0,
+        "large": 149.0
+      },
+      "default_variant": "regular",
+      "allowed_modifiers": [
+        "extra egg",
+        "no onions",
+        "green chutney",
+        "cheese",
+        "chilli sauce"
+      ],
+      "allergens": [
+        "gluten",
+        "egg"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "WRP-04",
+      "name": "Veg Seekh Kebab Roll",
+      "aliases": [
+        "veg kebab roll",
+        "vegetable seekh roll"
+      ],
+      "category": "wraps_and_rolls",
+      "prices": {
+        "regular": 129.0,
+        "large": 169.0
+      },
+      "default_variant": "regular",
+      "allowed_modifiers": [
+        "extra seekh",
+        "no onions",
+        "mint chutney",
+        "spicy mayo",
+        "extra cheese"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy",
+        "soy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "WRP-05",
+      "name": "Schezwan Paneer Wrap",
+      "aliases": [
+        "schezwan paneer roll",
+        "spicy paneer wrap"
+      ],
+      "category": "wraps_and_rolls",
+      "prices": {
+        "regular": 149.0,
+        "large": 199.0
+      },
+      "default_variant": "regular",
+      "allowed_modifiers": [
+        "extra paneer",
+        "no onions",
+        "extra schezwan sauce",
+        "cheese",
+        "jalapenos"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy",
+        "soy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "WRP-06",
+      "name": "Chicken Frankie",
+      "aliases": [
+        "chicken frankie roll",
+        "frankie chicken"
+      ],
+      "category": "wraps_and_rolls",
+      "prices": {
+        "regular": 149.0,
+        "large": 199.0
+      },
+      "default_variant": "regular",
+      "allowed_modifiers": [
+        "extra chicken",
+        "no onions",
+        "extra egg",
+        "mint chutney",
+        "cheese"
+      ],
+      "allergens": [
+        "gluten",
+        "egg",
+        "dairy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "PIZ-01",
+      "name": "Classic Margherita Pizza",
+      "aliases": [
+        "margherita",
+        "cheese pizza",
+        "plain cheese pizza"
+      ],
+      "category": "pizza",
+      "prices": {
+        "personal": 169.0,
+        "medium": 299.0,
+        "large": 449.0
+      },
+      "default_variant": "personal",
+      "allowed_modifiers": [
+        "extra cheese",
+        "extra oregano",
+        "chilli flakes",
+        "jalapenos",
+        "olives"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "PIZ-02",
+      "name": "Farmhouse Veg Pizza",
+      "aliases": [
+        "farmhouse pizza",
+        "vegetable pizza"
+      ],
+      "category": "pizza",
+      "prices": {
+        "personal": 219.0,
+        "medium": 349.0,
+        "large": 499.0
+      },
+      "default_variant": "personal",
+      "allowed_modifiers": [
+        "extra cheese",
+        "extra capsicum",
+        "extra onion",
+        "jalapenos",
+        "olives"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "PIZ-03",
+      "name": "Paneer Tikka Pizza",
+      "aliases": [
+        "paneer pizza",
+        "tikka pizza"
+      ],
+      "category": "pizza",
+      "prices": {
+        "personal": 229.0,
+        "medium": 369.0,
+        "large": 529.0
+      },
+      "default_variant": "personal",
+      "allowed_modifiers": [
+        "extra cheese",
+        "extra paneer",
+        "extra onion",
+        "jalapenos",
+        "mint sauce"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "PIZ-04",
+      "name": "Chicken Pepper Barbecue Pizza",
+      "aliases": [
+        "bbq chicken pizza",
+        "pepper chicken pizza"
+      ],
+      "category": "pizza",
+      "prices": {
+        "personal": 249.0,
+        "medium": 399.0,
+        "large": 569.0
+      },
+      "default_variant": "personal",
+      "allowed_modifiers": [
+        "extra cheese",
+        "extra chicken",
+        "extra barbecue sauce",
+        "jalapenos",
+        "olives"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "PIZ-05",
+      "name": "Tandoori Chicken Pizza",
+      "aliases": [
+        "tandoori pizza",
+        "tandoori chicken cheese pizza"
+      ],
+      "category": "pizza",
+      "prices": {
+        "personal": 249.0,
+        "medium": 399.0,
+        "large": 569.0
+      },
+      "default_variant": "personal",
+      "allowed_modifiers": [
+        "extra cheese",
+        "extra chicken",
+        "extra onion",
+        "jalapenos",
+        "mint sauce"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "PIZ-06",
+      "name": "Sweet Corn Cheese Pizza",
+      "aliases": [
+        "corn pizza",
+        "sweet corn pizza"
+      ],
+      "category": "pizza",
+      "prices": {
+        "personal": 199.0,
+        "medium": 329.0,
+        "large": 479.0
+      },
+      "default_variant": "personal",
+      "allowed_modifiers": [
+        "extra cheese",
+        "extra corn",
+        "jalapenos",
+        "olives",
+        "chilli flakes"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "SND-01",
+      "name": "Grilled Veg Sandwich",
+      "aliases": [
+        "vegetable sandwich",
+        "veg grilled sandwich"
+      ],
+      "category": "sandwiches",
+      "prices": {
+        "regular": 109.0,
+        "large": 159.0
+      },
+      "default_variant": "regular",
+      "allowed_modifiers": [
+        "extra cheese",
+        "no onions",
+        "no tomato",
+        "extra chutney",
+        "grilled"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "SND-02",
+      "name": "Bombay Masala Sandwich",
+      "aliases": [
+        "bombay sandwich",
+        "masala toast sandwich"
+      ],
+      "category": "sandwiches",
+      "prices": {
+        "regular": 119.0,
+        "large": 169.0
+      },
+      "default_variant": "regular",
+      "allowed_modifiers": [
+        "extra cheese",
+        "no onions",
+        "no cucumber",
+        "extra green chutney",
+        "extra masala"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "SND-03",
+      "name": "Paneer Club Sandwich",
+      "aliases": [
+        "paneer sandwich",
+        "paneer club"
+      ],
+      "category": "sandwiches",
+      "prices": {
+        "regular": 159.0,
+        "large": 219.0
+      },
+      "default_variant": "regular",
+      "allowed_modifiers": [
+        "extra paneer",
+        "extra cheese",
+        "no onions",
+        "no tomato",
+        "mint mayo"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy",
+        "soy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "SND-04",
+      "name": "Chicken Mayo Sandwich",
+      "aliases": [
+        "chicken sandwich",
+        "chicken mayonnaise sandwich"
+      ],
+      "category": "sandwiches",
+      "prices": {
+        "regular": 149.0,
+        "large": 199.0
+      },
+      "default_variant": "regular",
+      "allowed_modifiers": [
+        "extra chicken",
+        "extra cheese",
+        "no onions",
+        "no lettuce",
+        "extra mayonnaise"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy",
+        "egg"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "SND-05",
+      "name": "Egg Cheese Sandwich",
+      "aliases": [
+        "egg sandwich",
+        "cheese egg toast"
+      ],
+      "category": "sandwiches",
+      "prices": {
+        "regular": 119.0,
+        "large": 169.0
+      },
+      "default_variant": "regular",
+      "allowed_modifiers": [
+        "extra egg",
+        "extra cheese",
+        "no onions",
+        "green chutney",
+        "chilli sauce"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy",
+        "egg"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "MOM-01",
+      "name": "Steamed Veg Momos",
+      "aliases": [
+        "veg momos",
+        "vegetable dumplings"
+      ],
+      "category": "momos",
+      "prices": {
+        "6_pieces": 99.0,
+        "10_pieces": 149.0
+      },
+      "default_variant": "6_pieces",
+      "allowed_modifiers": [
+        "extra red chutney",
+        "mayonnaise",
+        "schezwan dip",
+        "extra filling"
+      ],
+      "allergens": [
+        "gluten",
+        "soy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "MOM-02",
+      "name": "Fried Veg Momos",
+      "aliases": [
+        "fried momos",
+        "crispy veg momos"
+      ],
+      "category": "momos",
+      "prices": {
+        "6_pieces": 119.0,
+        "10_pieces": 169.0
+      },
+      "default_variant": "6_pieces",
+      "allowed_modifiers": [
+        "extra red chutney",
+        "mayonnaise",
+        "schezwan dip",
+        "extra filling"
+      ],
+      "allergens": [
+        "gluten",
+        "soy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "MOM-03",
+      "name": "Tandoori Veg Momos",
+      "aliases": [
+        "tandoori momos",
+        "tandoori vegetable momos"
+      ],
+      "category": "momos",
+      "prices": {
+        "6_pieces": 139.0,
+        "10_pieces": 199.0
+      },
+      "default_variant": "6_pieces",
+      "allowed_modifiers": [
+        "extra mint chutney",
+        "mayonnaise",
+        "extra tandoori masala",
+        "extra filling"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy",
+        "soy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "MOM-04",
+      "name": "Steamed Chicken Momos",
+      "aliases": [
+        "chicken momos",
+        "chicken dumplings"
+      ],
+      "category": "momos",
+      "prices": {
+        "6_pieces": 129.0,
+        "10_pieces": 189.0
+      },
+      "default_variant": "6_pieces",
+      "allowed_modifiers": [
+        "extra red chutney",
+        "mayonnaise",
+        "schezwan dip",
+        "extra filling"
+      ],
+      "allergens": [
+        "gluten",
+        "soy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "MOM-05",
+      "name": "Fried Chicken Momos",
+      "aliases": [
+        "fried chicken dumplings",
+        "crispy chicken momos"
+      ],
+      "category": "momos",
+      "prices": {
+        "6_pieces": 149.0,
+        "10_pieces": 209.0
+      },
+      "default_variant": "6_pieces",
+      "allowed_modifiers": [
+        "extra red chutney",
+        "mayonnaise",
+        "schezwan dip",
+        "extra filling"
+      ],
+      "allergens": [
+        "gluten",
+        "soy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "SID-01",
+      "name": "Classic French Fries",
+      "aliases": [
+        "fries",
+        "regular fries",
+        "salted fries"
+      ],
+      "category": "sides",
+      "prices": {
+        "regular": 79.0,
+        "large": 119.0
+      },
+      "default_variant": "regular",
+      "allowed_modifiers": [
+        "peri peri seasoning",
+        "extra salt",
+        "cheese dip",
+        "mayonnaise",
+        "ketchup"
+      ],
+      "allergens": [
+        "may contain gluten",
+        "soy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "SID-02",
+      "name": "Peri Peri Fries",
+      "aliases": [
+        "spicy fries",
+        "peri peri potato fries"
+      ],
+      "category": "sides",
+      "prices": {
+        "regular": 99.0,
+        "large": 139.0
+      },
+      "default_variant": "regular",
+      "allowed_modifiers": [
+        "extra peri peri",
+        "cheese dip",
+        "mayonnaise",
+        "ketchup",
+        "extra salt"
+      ],
+      "allergens": [
+        "may contain gluten",
+        "soy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "SID-03",
+      "name": "Loaded Cheese Fries",
+      "aliases": [
+        "cheese fries",
+        "loaded fries"
+      ],
+      "category": "sides",
+      "prices": {
+        "regular": 139.0,
+        "large": 189.0
+      },
+      "default_variant": "regular",
+      "allowed_modifiers": [
+        "extra cheese sauce",
+        "jalapenos",
+        "spring onion",
+        "schezwan drizzle",
+        "extra fries"
+      ],
+      "allergens": [
+        "dairy",
+        "soy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "SID-04",
+      "name": "Crispy Onion Rings",
+      "aliases": [
+        "onion rings",
+        "fried onion rings"
+      ],
+      "category": "sides",
+      "prices": {
+        "6_pieces": 89.0,
+        "10_pieces": 129.0
+      },
+      "default_variant": "6_pieces",
+      "allowed_modifiers": [
+        "extra seasoning",
+        "cheese dip",
+        "mayonnaise",
+        "ketchup"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "SID-05",
+      "name": "Masala Potato Wedges",
+      "aliases": [
+        "potato wedges",
+        "masala wedges"
+      ],
+      "category": "sides",
+      "prices": {
+        "regular": 89.0,
+        "large": 129.0
+      },
+      "default_variant": "regular",
+      "allowed_modifiers": [
+        "extra masala",
+        "cheese dip",
+        "mayonnaise",
+        "ketchup"
+      ],
+      "allergens": [
+        "may contain gluten",
+        "soy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "SID-06",
+      "name": "Cheesy Garlic Bread",
+      "aliases": [
+        "garlic bread",
+        "cheese garlic bread"
+      ],
+      "category": "sides",
+      "prices": {
+        "4_pieces": 119.0,
+        "6_pieces": 159.0
+      },
+      "default_variant": "4_pieces",
+      "allowed_modifiers": [
+        "extra cheese",
+        "extra garlic butter",
+        "oregano",
+        "chilli flakes"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "SID-07",
+      "name": "Chicken Nuggets",
+      "aliases": [
+        "nuggets",
+        "fried chicken bites"
+      ],
+      "category": "sides",
+      "prices": {
+        "6_pieces": 129.0,
+        "9_pieces": 179.0
+      },
+      "default_variant": "6_pieces",
+      "allowed_modifiers": [
+        "extra barbecue dip",
+        "mayonnaise",
+        "peri peri seasoning",
+        "cheese dip"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy",
+        "egg",
+        "soy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "BEV-01",
+      "name": "Masala Lemon Soda",
+      "aliases": [
+        "masala soda",
+        "lemon soda",
+        "nimbu soda"
+      ],
+      "category": "beverages",
+      "prices": {
+        "regular": 59.0,
+        "large": 89.0
+      },
+      "default_variant": "regular",
+      "allowed_modifiers": [
+        "less ice",
+        "no salt",
+        "extra lemon",
+        "sweet",
+        "salted"
+      ],
+      "allergens": [],
+      "availability": "9 AM to 11 PM"
+    },
+    {
+      "sku": "BEV-02",
+      "name": "Classic Lemon Iced Tea",
+      "aliases": [
+        "iced tea",
+        "lemon ice tea"
+      ],
+      "category": "beverages",
+      "prices": {
+        "regular": 79.0,
+        "large": 109.0
+      },
+      "default_variant": "regular",
+      "allowed_modifiers": [
+        "less ice",
+        "no sugar",
+        "extra lemon",
+        "light sugar"
+      ],
+      "allergens": [],
+      "availability": "9 AM to 11 PM"
+    },
+    {
+      "sku": "BEV-03",
+      "name": "Mango Milkshake",
+      "aliases": [
+        "mango shake",
+        "mango milk shake"
+      ],
+      "category": "beverages",
+      "prices": {
+        "regular": 109.0,
+        "large": 149.0
+      },
+      "default_variant": "regular",
+      "allowed_modifiers": [
+        "less sugar",
+        "no ice",
+        "extra ice cream",
+        "oat milk"
+      ],
+      "allergens": [
+        "dairy"
+      ],
+      "availability": "9 AM to 11 PM"
+    },
+    {
+      "sku": "BEV-04",
+      "name": "Cold Coffee",
+      "aliases": [
+        "iced coffee",
+        "cold coffee shake"
+      ],
+      "category": "beverages",
+      "prices": {
+        "regular": 99.0,
+        "large": 139.0
+      },
+      "default_variant": "regular",
+      "allowed_modifiers": [
+        "less sugar",
+        "no sugar",
+        "extra coffee",
+        "extra ice cream",
+        "oat milk"
+      ],
+      "allergens": [
+        "dairy"
+      ],
+      "availability": "9 AM to 11 PM"
+    },
+    {
+      "sku": "BEV-05",
+      "name": "Chocolate Milkshake",
+      "aliases": [
+        "chocolate shake",
+        "chocolate milk shake"
+      ],
+      "category": "beverages",
+      "prices": {
+        "regular": 119.0,
+        "large": 159.0
+      },
+      "default_variant": "regular",
+      "allowed_modifiers": [
+        "less sugar",
+        "extra chocolate",
+        "extra ice cream",
+        "oat milk"
+      ],
+      "allergens": [
+        "dairy",
+        "soy"
+      ],
+      "availability": "9 AM to 11 PM"
+    },
+    {
+      "sku": "BEV-06",
+      "name": "Salted Masala Buttermilk",
+      "aliases": [
+        "buttermilk",
+        "chaas",
+        "masala chaas"
+      ],
+      "category": "beverages",
+      "prices": {
+        "250_ml": 39.0,
+        "400_ml": 59.0
+      },
+      "default_variant": "250_ml",
+      "allowed_modifiers": [
+        "less salt",
+        "no chilli",
+        "extra roasted cumin",
+        "no coriander"
+      ],
+      "allergens": [
+        "dairy"
+      ],
+      "availability": "9 AM to 11 PM"
+    },
+    {
+      "sku": "BEV-07",
+      "name": "Packaged Drinking Water",
+      "aliases": [
+        "mineral water",
+        "water bottle"
+      ],
+      "category": "beverages",
+      "prices": {
+        "500_ml": 20.0,
+        "1_litre": 30.0
+      },
+      "default_variant": "500_ml",
+      "allowed_modifiers": [],
+      "allergens": [],
+      "availability": "9 AM to 11 PM"
+    },
+    {
+      "sku": "DES-01",
+      "name": "Chocolate Brownie",
+      "aliases": [
+        "brownie",
+        "chocolate fudge brownie"
+      ],
+      "category": "desserts",
+      "prices": {
+        "single": 89.0,
+        "with_ice_cream": 129.0
+      },
+      "default_variant": "single",
+      "allowed_modifiers": [
+        "warm it",
+        "extra chocolate sauce",
+        "vanilla ice cream",
+        "nuts"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy",
+        "egg",
+        "may contain nuts"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "DES-02",
+      "name": "Choco Lava Cake",
+      "aliases": [
+        "lava cake",
+        "chocolate lava"
+      ],
+      "category": "desserts",
+      "prices": {
+        "single": 109.0,
+        "with_ice_cream": 149.0
+      },
+      "default_variant": "single",
+      "allowed_modifiers": [
+        "vanilla ice cream",
+        "extra chocolate sauce",
+        "warm it"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy",
+        "egg",
+        "soy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "DES-03",
+      "name": "Gulab Jamun",
+      "aliases": [
+        "gulab jamun",
+        "gulabjamun"
+      ],
+      "category": "desserts",
+      "prices": {
+        "2_pieces": 59.0,
+        "4_pieces": 99.0
+      },
+      "default_variant": "2_pieces",
+      "allowed_modifiers": [
+        "warm it",
+        "extra sugar syrup",
+        "vanilla ice cream"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "DES-04",
+      "name": "Vanilla Scoop Ice Cream",
+      "aliases": [
+        "vanilla ice cream",
+        "vanilla scoop"
+      ],
+      "category": "desserts",
+      "prices": {
+        "1_scoop": 49.0,
+        "2_scoops": 89.0
+      },
+      "default_variant": "1_scoop",
+      "allowed_modifiers": [
+        "chocolate sauce",
+        "sprinkles",
+        "nuts",
+        "wafer"
+      ],
+      "allergens": [
+        "dairy",
+        "may contain nuts",
+        "gluten"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "DES-05",
+      "name": "Chocolate Waffle",
+      "aliases": [
+        "waffle",
+        "chocolate waffle"
+      ],
+      "category": "desserts",
+      "prices": {
+        "regular": 129.0,
+        "with_ice_cream": 169.0
+      },
+      "default_variant": "regular",
+      "allowed_modifiers": [
+        "extra chocolate sauce",
+        "vanilla ice cream",
+        "sprinkles",
+        "nuts"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy",
+        "egg",
+        "soy",
+        "may contain nuts"
+      ],
+      "availability": "11 AM to 11 PM"
+    },
+    {
+      "sku": "DES-06",
+      "name": "Mini Donuts",
+      "aliases": [
+        "donuts",
+        "mini doughnuts",
+        "doughnuts"
+      ],
+      "category": "desserts",
+      "prices": {
+        "4_pieces": 99.0,
+        "6_pieces": 139.0
+      },
+      "default_variant": "4_pieces",
+      "allowed_modifiers": [
+        "chocolate dip",
+        "strawberry dip",
+        "cinnamon sugar",
+        "sprinkles"
+      ],
+      "allergens": [
+        "gluten",
+        "dairy",
+        "egg",
+        "soy"
+      ],
+      "availability": "11 AM to 11 PM"
+    }
+  ]
+}
